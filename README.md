@@ -20,6 +20,6 @@ Please note that the datasets used in the projects are not included in this repo
 
 ## Contact
 
-If you have any questions, suggestions, or would like to connect, please feel free to reach out to me. My contact information can be found in my [GitHub profile]([https://github.com/yourusername](https://github.com/bernardo-mcosta)).
+If you have any questions, suggestions, or would like to connect, please feel free to reach out to me. My contact information can be found in my [GitHub profile](https://github.com/bernardo-mcosta).
 
 Thank you for passing by!
