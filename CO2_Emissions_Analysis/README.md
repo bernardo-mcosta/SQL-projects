@@ -1,21 +1,15 @@
 # CO2 Emissions Analysis - SQL Portfolio Project
 
-This repository contains SQL queries and analysis for a dataset on CO2 emissions by vehicles. The dataset captures details on how CO2 emissions can vary with different vehicle features such as fuel type, transmission, engine size, and more. The dataset has been compiled from the Canada Government official open data website, covering a period of 7 years.
-
-## Dataset Source
-
-The dataset used for this project has been obtained from [Kaggle](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles) and contains information taken from Canada Government official open data website over a period of 7 years.
+This repository contains SQL queries and analysis for a dataset on CO2 emissions by vehicles. The dataset captures details on how CO2 emissions can vary with different vehicle features such as fuel type, transmission, engine size, and more. The dataset has been compiled from the Canada Government official open data website, covering a period of 7 years and was obtained from [Kaggle](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles).
 
 ## SQL Queries and Analysis
 
 The repository contains SQL queries to perform various analyses on the CO2 emissions dataset. Here's an overview of the queries included:
 1. **Average CO2 Emissions:** Calculate the average CO2 emissions (in grams per kilometer) for all vehicles in the dataset.
 2. **Average CO2 Emissions by Fuel Type:** Determine how the average CO2 emissions differ between different fuel types (regular gasoline, premium gasoline, diesel, ethanol, natural gas).
-3. **Verification for Ethanol Fuel Type:** Verify if large vehicles are skewing the average emissions for the Ethanol fuel type.
-4. **Average CO2 Emissions by Fuel Type and Vehicle Class:** Recalculate the average emissions per fuel type and vehicle class, excluding large vehicles for the Ethanol fuel type.
-5. **Impact of Number of Cylinders on CO2 Emissions:** Analyze how the number of cylinders in a vehicle affects its CO2 emissions.
-6. **Average Fuel Consumption by Fuel Type:** Calculate the average fuel consumption (city, highway, and combined) for each fuel type.
-7. **Comparison of CO2 Emissions for Automatic and Manual Transmissions:** Determine if there are significant differences in CO2 emissions between automatic and manual transmissions.
+3. **Impact of Number of Cylinders on CO2 Emissions:** Analyze how the number of cylinders in a vehicle affects its CO2 emissions.
+4. **Average Fuel Consumption by Fuel Type:** Calculate the average fuel consumption (city, highway, and combined) for each fuel type.
+5. **Comparison of CO2 Emissions for Automatic and Manual Transmissions:** Determine if there are significant differences in CO2 emissions between automatic and manual transmissions.
 
 ### Abbreviations Used in the Dataset
 
