@@ -1,6 +1,6 @@
 # SQL Portfolio Project - Olist Ecommerce Dataset Analysis
 
-This repository contains SQL queries and analysis for the Olist Ecommerce dataset, which consists of information on 100,000 orders made at Olist Store in Brazil from 2016 to 2018. The dataset provides insights into various aspects of the ecommerce business, including customer data, order details, product information, and reviews.
+This repository contains SQL queries and analysis for the Olist Ecommerce dataset, which consists of information on 100,000 orders made at Olist Store in Brazil from 2016 to 2018. The dataset provides insights into various aspects of the ecommerce business, including customer data, order details, product information, and reviews. This dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv).
 
 ## Project Goal and Approach
 
