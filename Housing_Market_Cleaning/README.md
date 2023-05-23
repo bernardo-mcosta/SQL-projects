@@ -11,5 +11,3 @@ The repository includes SQL queries and data cleaning operations performed on th
 3. Breaking Address into individual columns (Address, City, State)
 5. Change Y and N to Yes and No in "Sold as Vacant" field:
 6. Remove Duplicates:
-
-Note: The code provided assumes that the dataset is stored in a table named "NashvilleHousing" and that the necessary columns mentioned in the queries are present in the table.
