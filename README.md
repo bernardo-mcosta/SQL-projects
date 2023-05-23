@@ -6,6 +6,7 @@ Welcome to the SQL Projects repository! This repository contains a collection of
 
 - [Project 1: CO2 Emissions Analysis](./CO2_Emissions_Analysis)
 - [Project 2: Nashville Housing Market Data Cleaning](./Housing_Market_Cleaning)
+- [Project 3: Brazilian Ecommerce Analysis](./Brazilian_ecommerce_analysis)
 
 ## Project Descriptions
 
@@ -17,6 +18,9 @@ The CO2 Emissions Analysis project analyzes a dataset on CO2 emissions by vehicl
 
 The Nashville Housing Data Cleaning project focuses on cleaning and transforming a dataset containing sale data from the Nashville housing market. The dataset includes information about property sales, addresses, dates, and other relevant details. The project utilizes SQL queries to standardize date formats, populate missing property addresses, split address fields into individual columns (address, city, state), clean fields and remove duplicate entries.
 
+### Project 3: Brazilian Ecommerce Analysis
+
+The Brazilian Ecommerce Dataset Analysis project focuses on analyzing a real-world Brazilian ecommerce dataset. The dataset contains information on 100,000 orders made at Olist Store from 2016 to 2018, providing valuable insights into various aspects of the ecommerce business. By utilizing SQL queries and analysis, the project aims to extract meaningful information regarding customer behavior, product performance, order management, revenue data and geographical distribution. The project demonstrates the ability to work with multiple tables and perform joins to retrieve and analyze data.
 
 ## Usage
 
